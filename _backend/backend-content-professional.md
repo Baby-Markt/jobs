@@ -1,8 +1,8 @@
 ---
 title: "CMS/Wordpress Developer"
-show_overlay_excerpt: false
 permalink: /backend/content-professional/
 header:
+  show_overlay_excerpt: false 
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash_backend_content.png

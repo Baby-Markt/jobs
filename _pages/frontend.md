@@ -5,5 +5,5 @@ permalink: /frontend/
 
 {% for item in site.frontend %}
   <h3><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h3>
-  <p>{{ item.description }}</p>
+  <p>{{ item.excerpt }}</p>
 {% endfor %}

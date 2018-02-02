@@ -2,13 +2,12 @@
 title: "Frontend Developer"
 permalink: /frontend/professional/
 ---
-## Frontend Developer
 
 ![alt Logo](http://www.sushininja.de/assets/img/ninja-logo.png)
 
 Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im europäischen Raum vorantreiben. Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen neue Standards für eine Vielzahl an Devices zu setzen. 
 
-# Wonach wir suchen
+## Wonach wir suchen
 
 * Du hast die letzten 2 Jahre mit aktuellen Technologien im Bereich der Frontend-Webentwicklung gearbeitet
 * Du beherrscht HTML5, CSS3 und Javascript (ES 5+) und hast ein gutes Gespür für UX/UI
@@ -17,21 +16,12 @@ Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im e
 * Du bist mit agilen Entwicklungsmethoden vertraut
 * Erfahrung in der Einschätzung von Projektaufwänden
 
-# Deine Aufgaben
+## Deine Aufgaben
 
 * Zusammenarbeit in einem agilen Team
 * Weiterentwicklung unseres Shop-Frontend für die browserbasierte Dartstellung Mobile und Desktop
 * Evaluierung und Einsatzplanung neuer Technologien
 * Automatisierte Buildprozesse auf Basis von Task-Runnern (z.B. Grunt) entwickeln
 
-# Wir bieten dir
-
-* Einsatz aktueller Technologien und immer offen gegenüber Neuem
-* Ein tolles Team  
-* Aufstrebendes Unternehmen mit vielen herausfordernden Zielen
-* Team Events und sonstigen Kram
-* Slack Time 
-* Regelmäßige Teilnahme an Konferenzen und Weiterbildungmaßnahmen
-* Kiosk
-
+{% include offers_benefits.md %}
 {% include offers_footer.md %}

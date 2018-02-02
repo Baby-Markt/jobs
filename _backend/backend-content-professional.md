@@ -1,13 +1,12 @@
 ---
 title: "CMS/Wordpress Developer"
-description: "We need you, an experianced wordpress developer to do some cool stuff with wordpress."
 permalink: /backend/content-professional/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash_backend_content.png
   cta_label: "Jetzt bewerben"
-  cta_url: "mailto:<%= site.offers_email %>"
+  cta_url: "mailto:" *site.offers_email
 ---
 
 Als CMS-Entwickler wirst du dich bei der babymarkt.de GmbH um die Anwendungen zur Pflege und Verwaltung von

@@ -7,7 +7,7 @@ permalink: /frontend/professional/
 
 Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im europäischen Raum vorantreiben. Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen neue Standards für eine Vielzahl an Devices zu setzen. 
 
-## Wonach wir suchen
+## Danach suchen wir
 
 * Du hast die letzten 2 Jahre mit aktuellen Technologien im Bereich der Frontend-Webentwicklung gearbeitet
 * Du beherrscht HTML5, CSS3 und Javascript (ES 5+) und hast ein gutes Gespür für UX/UI
@@ -16,7 +16,7 @@ Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im e
 * Du bist mit agilen Entwicklungsmethoden vertraut
 * Erfahrung in der Einschätzung von Projektaufwänden
 
-## Deine Aufgaben
+## Das gibt es zu tun
 
 * Zusammenarbeit in einem agilen Team
 * Weiterentwicklung unseres Shop-Frontend für die browserbasierte Dartstellung Mobile und Desktop

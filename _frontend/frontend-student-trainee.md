@@ -2,7 +2,12 @@
 title: "Werkstudent Frontend"
 permalink: /frontend/student-trainee/
 ---
-## Werkstudent Frontend
+
+
+
+## Danach suchen wir
+
+## Das gibt es zu tun
 
 {% include offers_benefits.md %}
 {% include offers_footer.md %}

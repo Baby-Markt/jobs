@@ -1,9 +1,9 @@
 ## Wir bieten dir
 
-* Einsatz aktueller Technologien und immer offen gegenüber Neuem
-* Ein tolles Team  
-* Aufstrebendes Unternehmen mit vielen herausfordernden Zielen
-* Team Events und sonstigen Kram
-* Slack Time 
-* Regelmäßige Teilnahme an Konferenzen und Weiterbildungmaßnahmen
-* Kiosk
+* Einsatz aktueller Technologien und Entwicklungsumgebungen
+* Ein tolles Team dass an einem Strang zieht
+* Aufstrebendes Unternehmen mit vielen herausfordernden und spannenden Zielen
+* Regelmäßige Team- und Firmen-Events
+* Slack Time (freie Zeit für eigene Projekte) 
+* Teilnahmen an Konferenzen und Weiterbildungmaßnahmen
+* Kostenloses Wasser, Kaffee und Obstkörbe

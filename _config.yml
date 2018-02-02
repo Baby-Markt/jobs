@@ -9,6 +9,7 @@ name: "babymarkt.de GmbH"
 url: https://baby-markt.github.io
 baseurl: "/jobs"
 repository: "Baby-Markt/jobs"
+offers_email: "bewerbung.shop@babymarkt.de"
 
 search: true
 search_full_content: true

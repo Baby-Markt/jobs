@@ -4,6 +4,13 @@ Wenn es um Baby- und Kinderausstattung geht, haben wir als führender Online-Fac
 
 ## Fragen?
 
-Hast Du Fragen zum Bewerbungsprozess oder zur ausgeschriebenen Stelle, schreib [Niklas](mailto:funke@babymarkt.de).
+Hast Du Fragen zum Bewerbungsprozess oder zur ausgeschriebenen Stelle, schreib [uns](mailto:funke@babymarkt.de).
 
-Deine schriftliche Bewerbung kannst du uns entweder direkt per E-Mail an bewerbung.shop@babymarkt.de oder klassisch per Post an babymarkt.de Gmbh, Niklas Funke in der Wulfshofstr. 22 in 44149 Dortmund senden.
+Deine schriftliche Bewerbung kannst du uns entweder direkt per E-Mail an 
+[bewerbung.shop@babymarkt.de](mailto:bewerbung.shop@babymarkt.de) oder klassisch per Post senden. 
+Die Anschrift lautet: 
+
+babymarkt.de Gmbh<br>
+Niklas Funke<br>
+Wulfshofstr. 22<br>
+44149 Dortmund

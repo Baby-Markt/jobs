@@ -32,13 +32,13 @@ include:
 collections:
   backend:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   frontend:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
   infrastructure:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

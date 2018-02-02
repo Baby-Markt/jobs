@@ -2,7 +2,6 @@
 title: "Infrastructure Jobs"
 permalink: /infrastructure/
 ---
-# Infrastructure
 
 {% for item in site.infrastructure %}
   <h2>{{ item.title }}</h2>

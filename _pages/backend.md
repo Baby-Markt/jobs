@@ -2,7 +2,6 @@
 title: "Backend Jobs"
 permalink: /backend/
 ---
-## Backend
 
 {% for item in site.backend %}
   <h2>{{ item.title }}</h2>

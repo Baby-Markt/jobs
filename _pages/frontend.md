@@ -2,7 +2,6 @@
 title: "Frontend Jobs"
 permalink: /frontend/
 ---
-## Frontend
 
 {% for item in site.frontend %}
   <h2>{{ item.title }}</h2>

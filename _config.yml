@@ -3,7 +3,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Site settings
 locale: "de-DE"
-title: "babymarkt.de jobs"
+title: "babymarkt.de tech jobs"
 title_separator: "-"
 name: &name "Niklas Funke"
 url: https://baby-markt.github.io
@@ -23,26 +23,42 @@ author:
 
 # Reading files
 include:
-- _offers
+- _backend
+- _frontend
+- _infrastructure
 
 # Collections
 collections:
-  backend_offers:
+  backend:
     output: true
     permalink: /:collection/:name
-  frontend_offers:
+  frontend:
     output: true
     permalink: /:collection/:name
-  infrastructure_offers:
+  infrastructure:
     output: true
     permalink: /:collection/:name
 
 # Defaults
 defaults:
-# _offers
+# _backend
 - scope:
-    path: ""
-    type: offers
+    path: "/backend/"
+    type: backend
+  values:
+    layout: single
+    author_profile: true
+# _frontend
+- scope:
+    path: "/frontend/"
+    type: frontend
+  values:
+    layout: single
+    author_profile: true
+# _infrastructure
+- scope:
+    path: "/infrastructure/"
+    type: infrastructure
   values:
     layout: single
     author_profile: true

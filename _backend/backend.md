@@ -1,10 +1,10 @@
 ---
-title: "Infrastructure Jobs"
-permalink: /infrastructure/
+title: "Backend Jobs"
+permalink: /backend/
 ---
-# Infrastructure
+## Backend
 
-{% for item in site.infrastructure_offers %}
+{% for item in site.backend %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
   <p><a href="{{ item.url }}">{{ item.title }}</a></p>

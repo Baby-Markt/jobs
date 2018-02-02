@@ -1,12 +1,13 @@
 ---
 title: "CMS/Wordpress Developer"
+show_overlay_excerpt: false
 permalink: /backend/content-professional/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash_backend_content.png
   cta_label: "Jetzt bewerben"
-  cta_url: "mailto:" *site.offers_email
+  cta_url: "mailto:bewerbung.shop@babymarkt.de"
 ---
 
 Als CMS-Entwickler wirst du dich bei der babymarkt.de GmbH um die Anwendungen zur Pflege und Verwaltung von

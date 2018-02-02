@@ -20,3 +20,18 @@ author:
   email:
   uri: "https://www.babymarkt.de"
   xing: "u-nik"
+
+# Reading files
+include:
+- _offers
+
+
+# Defaults
+defaults:
+# _offers
+- scope:
+    path: ""
+    type: offers
+  values:
+    layout: single
+    author_profile: true

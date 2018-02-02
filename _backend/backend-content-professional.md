@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash_backend_content.png
   cta_label: "Jetzt bewerben"
-  cta_url: "mailto:{{ site.offers_email }}"
+  cta_url: "mailto:<%= site.offers_email %>"
 ---
 
 Als CMS-Entwickler wirst du dich bei der babymarkt.de GmbH um die Anwendungen zur Pflege und Verwaltung von

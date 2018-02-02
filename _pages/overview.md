@@ -1,5 +1,5 @@
 ---
-title: "Frontend Jobs"
+title: "Alle offenen Stellen"
 permalink: /overview/
 ---
 

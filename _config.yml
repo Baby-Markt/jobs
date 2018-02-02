@@ -25,6 +25,17 @@ author:
 include:
 - _offers
 
+# Collections
+collections:
+  backend_offers:
+    output: true
+    permalink: /:collection/:name
+  frontend_offers:
+    output: true
+    permalink: /:collection/:name
+  infrastructure_offers:
+    output: true
+    permalink: /:collection/:name
 
 # Defaults
 defaults:

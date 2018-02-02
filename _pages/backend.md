@@ -4,6 +4,6 @@ permalink: /backend/
 ---
 
 {% for item in site.backend %}
-  ### <a href="{{ item.url | absolute_url }}">{{ item.title }}</a>
-  {{ item.description }}
+  <h3><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h3>
+  <p>{{ item.description }}</p>
 {% endfor %}

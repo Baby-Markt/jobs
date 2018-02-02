@@ -4,10 +4,9 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash-php.jpg
-  cta_label: "Bewerben"
+  overlay_image: /assets/images/splash_php.jpg
+  cta_label: "Jetzt Bewerben"
   cta_url: "https://baby-markt.github.io/jobs/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 You can use the [editor on GitHub](https://github.com/Baby-Markt/jobs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

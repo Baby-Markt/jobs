@@ -1,0 +1,7 @@
+main:
+- title: "Frontend"
+  url: /frontend/
+- title: "Backend"
+  url: /backend/
+- title: "Infrastructure"
+  url: /infrastructure/

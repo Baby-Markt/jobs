@@ -1,1 +1,22 @@
+# Theme
 remote_theme: mmistakes/minimal-mistakes
+
+# Site settings
+locale: "de-DE"
+title: "babymarkt.de jobs"
+title_separator: "-"
+name: &name "Niklas Funke"
+url: baby-markt.github.io
+baseurl: "/jobs"
+repository: "Baby-Markt/jobs"
+
+search: true
+search_full_content: true
+
+# Site author
+author:
+  name: *name
+  location: "Dortmund, NRW"
+  email:
+  uri: "https://www.babymarkt.de"
+  xing: "u-nik"

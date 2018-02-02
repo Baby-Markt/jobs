@@ -5,4 +5,4 @@ permalink: /backend/content-professional/
 ---
 ## CMS/Wordpress Developer
 
-{% include offers_footer.html %}
+{% include offers_footer.md %}

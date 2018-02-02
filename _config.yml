@@ -5,7 +5,7 @@ remote_theme: mmistakes/minimal-mistakes
 locale: "de-DE"
 title: "babymarkt.de tech jobs"
 title_separator: "-"
-name: &name "Niklas Funke"
+name: "babymarkt.de GmbH"
 url: https://baby-markt.github.io
 baseurl: "/jobs"
 repository: "Baby-Markt/jobs"

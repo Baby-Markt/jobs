@@ -4,4 +4,4 @@ permalink: /backend/php-professional/
 ---
 ## PHP Developer
 
-{% include offers_footer.html %}
+{% include offers_footer.md %}

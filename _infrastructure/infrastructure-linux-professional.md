@@ -4,4 +4,4 @@ permalink: /infrastructure/linux-professional/
 ---
 ## Linux Operator Webhosting
 
-{% include offers_footer.html %}
+{% include offers_footer.md %}

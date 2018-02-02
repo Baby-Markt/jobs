@@ -1,8 +1,27 @@
 ---
-title: "PHP Developer"
-permalink: /backend/php-professional/
+title: "Senior PHP Developer"
+permalink: /backend/php-senior/
+header:
+  overlay_image: /assets/images/splash_php.jpg
 ---
-## PHP Developer
+
+Kurze Einleitung fehlt noch...
+
+## Danach suchen wir
+
+* Agile und testgetriebene Entwicklung nach Scrum mit PHP (5.6-7.x)
+* Planung und Konzipierung neuer, servicebasierte Komponenten
+* Evaluierung und Einsatzplanung neuer Technologien 
+* Du arbeitest mit professionellen Entwickler-Tools wie PhpStorm, Bamboo oder Jenkins, Jira und Git 
+* Virtualisierung mit Docker ist für Dich kein Fremdwort
+
+## Das gibt es zu tun
+
+* Mindestens 3 Jahr Berufserfahrung in der Entwicklung von Webanwendungen
+* Expertenwissen im Umgang mit OOP und Design Pattern ab PHP 5.6
+* Erfahrung in der Nutzung von relationalen (z.B. MySQL) oder Dokument-basierten (z.B Elasticsearch) Datenbanken
+* Erfahrung in der Einschätzung von Projektaufwänden
+* Grundlegende Erfahrungen mit „Unit-Tests“, „Dependency Injection“ und „Continous Integration“
 
 {% include offers_benefits.md %}
 {% include offers_footer.md %}

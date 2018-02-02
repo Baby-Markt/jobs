@@ -5,7 +5,9 @@ header:
   overlay_image: /assets/images/splash_frontend.png
 ---
 
-Als Student findest du reichhaltige Arbeitsangebote in unserer Firma. Siehe unten.
+Als Frontend-Student bei babymarkt wirst du mit uns den Markt für Babyartikel im europäischen Raum vorantreiben. 
+Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen neue Standards für eine Vielzahl an 
+Devices zu setzen.
 
 ## Danach suchen wir
 
@@ -17,7 +19,10 @@ Als Student findest du reichhaltige Arbeitsangebote in unserer Firma. Siehe unte
 
 ## Das gibt es zu tun
 
-* Umsetzungen in HTML/CSS/JS
+* Zusammenarbeit in einem agilen Team
+* Weiterentwicklung unseres Shop-Frontends für die browserbasierte Dartstellung Mobile und Desktop
+* Evaluierung und Einsatzplanung neuer Technologien
+* Erstellung automatisierter Buildprozesse auf Basis von Task-Runnern (z.B. Grunt)
 
 {% include offers_benefits.md %}
 {% include offers_footer.md %}

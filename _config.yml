@@ -6,7 +6,7 @@ locale: "de-DE"
 title: "babymarkt.de jobs"
 title_separator: "-"
 name: &name "Niklas Funke"
-url: baby-markt.github.io
+url: https://baby-markt.github.io
 baseurl: "/jobs"
 repository: "Baby-Markt/jobs"
 

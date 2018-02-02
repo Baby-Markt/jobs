@@ -58,6 +58,12 @@ defaults:
   values:
     layout: single
     author_profile: true
+    header:
+      show_overlay_excerpt: false
+      overlay_color: "#000"
+      overlay_filter: "0.5"
+      cta_label: "Jetzt bewerben"
+      cta_url: "mailto:bewerbung.shop@babymarkt.de"
 # _frontend
 - scope:
     path: ""
@@ -65,6 +71,12 @@ defaults:
   values:
     layout: single
     author_profile: true
+    header:
+      show_overlay_excerpt: false
+      overlay_color: "#000"
+      overlay_filter: "0.5"
+      cta_label: "Jetzt bewerben"
+      cta_url: "mailto:bewerbung.shop@babymarkt.de"
 # _infrastructure
 - scope:
     path: ""
@@ -72,3 +84,9 @@ defaults:
   values:
     layout: single
     author_profile: true
+    header:
+      show_overlay_excerpt: false
+      overlay_color: "#000"
+      overlay_filter: "0.5"
+      cta_label: "Jetzt bewerben"
+      cta_url: "mailto:bewerbung.shop@babymarkt.de"

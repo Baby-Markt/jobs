@@ -1,5 +1,14 @@
-## Welcome to GitHub Pages
-
+---
+title: "Welcome to GitHub Pages"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/splash-php.jpg
+  cta_label: "Bewerben"
+  cta_url: "https://baby-markt.github.io/jobs/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+---
 You can use the [editor on GitHub](https://github.com/Baby-Markt/jobs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,7 +32,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

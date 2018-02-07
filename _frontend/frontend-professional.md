@@ -1,11 +1,10 @@
 ---
-title: "Frontend Developer"
+title: "Frontend Developer (m/w)"
 permalink: /frontend/professional/
 ---
 
 Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im europäischen Raum vorantreiben. 
-Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen neue Standards für eine Vielzahl an 
-Devices zu setzen. 
+Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Standards für eine Vielzahl an Devices zu setzen. 
 
 ## Danach suchen wir
 
@@ -19,7 +18,7 @@ Devices zu setzen.
 ## Das gibt es zu tun
 
 * Zusammenarbeit in einem agilen Team
-* Weiterentwicklung unseres Shop-Frontend für die browserbasierte Dartstellung Mobile und Desktop
+* Weiterentwicklung unseres Shop-Frontend für die browserbasierte Darstellung Mobile und Desktop
 * Evaluierung und Einsatzplanung neuer Technologien
 * Automatisierte Buildprozesse auf Basis von Task-Runnern (z.B. Grunt) entwickeln
 

@@ -1,5 +1,5 @@
 ---
-title: "Senior PHP Developer"
+title: "Senior PHP Developer (m/w)"
 permalink: /backend/php-senior/
 header:
   overlay_image: /assets/images/splash_php.jpg
@@ -17,9 +17,9 @@ Kurze Einleitung fehlt noch...
 
 ## Das gibt es zu tun
 
-* Mindestens 3 Jahr Berufserfahrung in der Entwicklung von Webanwendungen
+* Mindestens 3 Jahre Berufserfahrung in der Entwicklung von Webanwendungen
 * Expertenwissen im Umgang mit OOP und Design Pattern ab PHP 5.6
-* Erfahrung in der Nutzung von relationalen (z.B. MySQL) oder Dokument-basierten (z.B Elasticsearch) Datenbanken
+* Erfahrung in der Nutzung von relationalen (z.B. MySQL) oder dokument-basierten (z.B Elasticsearch) Datenbanken
 * Erfahrung in der Einschätzung von Projektaufwänden
 * Grundlegende Erfahrungen mit „Unit-Tests“, „Dependency Injection“ und „Continous Integration“
 

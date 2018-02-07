@@ -1,26 +1,25 @@
 ---
-title: "Werkstudent Frontend"
+title: "Werkstudent Frontend (m/w)"
 permalink: /frontend/student-trainee/
 header:
   overlay_image: /assets/images/splash_frontend.png
 ---
 
 Als Frontend-Student bei babymarkt wirst du mit uns den Markt für Babyartikel im europäischen Raum vorantreiben. 
-Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen neue Standards für eine Vielzahl an 
-Devices zu setzen.
+Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Standards für eine Vielzahl an Devices zu setzen.
 
 ## Danach suchen wir
 
 * Eigeninteresse an Webseitenentwicklung
 * Erfahrungen mit aktuellem HTML/CSS/JS
-* Kenntnisse in der Nutzung von SASS/Less sind von Vorteil aber kein Muss
+* Kenntnisse in der Nutzung von SASS/Less sind von Vorteil, aber kein Muss
 * Du verstehst die Funktionsweise von Template Engines
 * Du solltest ein Auge für Webseiten und Layout haben
 
 ## Das gibt es zu tun
 
 * Zusammenarbeit in einem agilen Team
-* Weiterentwicklung unseres Shop-Frontends für die browserbasierte Dartstellung Mobile und Desktop
+* Weiterentwicklung unseres Shop-Frontends für die browserbasierte Darstellung Mobile und Desktop
 * Evaluierung und Einsatzplanung neuer Technologien
 * Erstellung automatisierter Buildprozesse auf Basis von Task-Runnern (z.B. Grunt)
 

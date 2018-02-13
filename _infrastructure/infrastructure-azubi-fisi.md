@@ -3,7 +3,7 @@ title: "Auszubildender Fachinformatik für Systemintegration (m/w)"
 permalink: /infrastructure/azubi-fachinformatik-systemintegration
 author: vogel
 header:
-  overlay_image: /assets/images/header_server.jpg
+  overlay_image: /assets/images/header_network.jpg
 ---
 
 Wenn du bisher Spaß an dem Aufbau deines eigenen kleinen Netzwerks zu Hause hattest,

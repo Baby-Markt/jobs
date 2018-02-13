@@ -4,7 +4,7 @@ funke:
   name: "Niklas Funke"
   location: "Dortmund, NRW"
   email: "funke@babymarkt.de"
-  avatar: "/assets/images/authors/niklas-funke.png"
+  avatar: "/assets/images/authors/niklas-funke.jpg"
   uri: "https://www.babymarkt.de"
   xing: "Niklas_Funke2"
   github: "u-nik"
@@ -13,12 +13,12 @@ reintjes:
   name: "Kirsten Reintjes"
   location: "Dortmund, NRW"
   email: "reintjes@babymarkt.de"
-  avatar: "/assets/images/authors/kirsten-reintjes.png"
+  avatar: "/assets/images/authors/kirsten-reintjes.jpg"
   xing: "Kirsten_Reintjes"
 
 vogel:
   name: "Andreas Vogel"
   location: "Dortmund, NRW"
   email: "vogel@babymarkt.de"
-  avatar: "/assets/images/authors/andreas-vogel.png"
+  avatar: "/assets/images/authors/andreas-vogel.jpg"
   xing: "Andreas_Vogel85"

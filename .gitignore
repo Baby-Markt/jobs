@@ -1,0 +1,8 @@
+# Ignore the jekyll output
+_site
+
+# bundle vendor packages
+dev/bundle/*
+
+# Keep all git files
+!**/.git*

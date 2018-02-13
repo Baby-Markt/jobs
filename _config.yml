@@ -5,6 +5,7 @@ remote_theme: mmistakes/minimal-mistakes
 locale: "de-DE"
 title: "babymarkt.de tech jobs"
 title_separator: "-"
+logo: "/assets/images/header_logo.png"
 name: "babymarkt.de GmbH"
 url: https://baby-markt.github.io
 baseurl: "/jobs"
@@ -22,6 +23,7 @@ author:
   avatar: "https://www.xing.com/img/users/3/3/9/889c08534.7114152,11.256x256.jpg"
   uri: "https://www.babymarkt.de"
   xing: "Niklas_Funke2"
+  github: "baby-markt"
 
 # Reading files
 include:
@@ -29,6 +31,10 @@ include:
 - _backend
 - _frontend
 - _infrastructure
+
+# Exclude files and directories
+exclude:
+- dev
 
 # Collections
 collections:

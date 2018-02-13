@@ -1,6 +1,7 @@
 ---
 title: "Frontend Developer (m/w)"
 permalink: /frontend/professional/
+author: funke
 ---
 
 Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im europäischen Raum vorantreiben. 
@@ -22,5 +23,6 @@ Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Sta
 * Evaluierung und Einsatzplanung neuer Technologien
 * Automatisierte Buildprozesse auf Basis von Task-Runnern (z.B. Grunt) entwickeln
 
-{% include offers_benefits.md %}
-{% include offers_footer.md %}
+{% include offers/funke/benefits.md %}
+{% include offers/about.md %}
+{% include offers/funke/footer.md %}

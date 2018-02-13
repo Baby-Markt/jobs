@@ -1,6 +1,7 @@
 ---
 title: "CMS/Wordpress Developer (m/w)"
 permalink: /backend/content-professional/
+author: funke
 header:
   overlay_image: /assets/images/splash_backend_content.png
 ---
@@ -27,5 +28,6 @@ Als CMS-Entwickler wirst du dich bei der babymarkt.de GmbH um die Anwendungen zu
 * Weiterentwicklung der persönlichen, methodischen und technischen Kompetenz
 * Intensiver Wissensaustausch mit erfahrenden Kolleginnen und Kollegen
 
-{% include offers_benefits.md %}
-{% include offers_footer.md %}
+{% include offers/funke/benefits.md %}
+{% include offers/about.md %}
+{% include offers/funke/footer.md %}

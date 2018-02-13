@@ -1,0 +1,24 @@
+# Authors of job offers
+
+funke:
+  name: "Niklas Funke"
+  location: "Dortmund, NRW"
+  email: "funke@babymarkt.de"
+  avatar: "/assets/images/authors/niklas-funke.png"
+  uri: "https://www.babymarkt.de"
+  xing: "Niklas_Funke2"
+  github: "u-nik"
+
+reintjes:
+  name: "Kirsten Reintjes"
+  location: "Dortmund, NRW"
+  email: "reintjes@babymarkt.de"
+  avatar: "/assets/images/authors/kirsten-reintjes.png"
+  xing: "Kirsten_Reintjes"
+
+vogel:
+  name: "Andreas Vogel"
+  location: "Dortmund, NRW"
+  email: "vogel@babymarkt.de"
+  avatar: "/assets/images/authors/andreas-vogel.png"
+  xing: "Andreas_Vogel85"

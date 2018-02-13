@@ -1,6 +1,7 @@
 ---
 title: "Werkstudent Frontend (m/w)"
 permalink: /frontend/student-trainee/
+author: funke
 header:
   overlay_image: /assets/images/splash_frontend.png
 ---
@@ -23,5 +24,6 @@ Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Sta
 * Evaluierung und Einsatzplanung neuer Technologien
 * Erstellung automatisierter Buildprozesse auf Basis von Task-Runnern (z.B. Grunt)
 
-{% include offers_benefits.md %}
-{% include offers_footer.md %}
+{% include offers/funke/benefits.md %}
+{% include offers/about.md %}
+{% include offers/funke/footer.md %}

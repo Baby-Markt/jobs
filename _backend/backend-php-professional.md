@@ -1,6 +1,7 @@
 ---
 title: "Senior PHP Developer (m/w)"
 permalink: /backend/php-senior/
+author: funke
 header:
   overlay_image: /assets/images/splash_php.jpg
 ---
@@ -23,5 +24,6 @@ Kurze Einleitung fehlt noch...
 * Erfahrung in der Einschätzung von Projektaufwänden
 * Grundlegende Erfahrungen mit „Unit-Tests“, „Dependency Injection“ und „Continous Integration“
 
-{% include offers_benefits.md %}
-{% include offers_footer.md %}
+{% include offers/funke/benefits.md %}
+{% include offers/about.md %}
+{% include offers/funke/footer.md %}

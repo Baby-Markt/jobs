@@ -1,8 +1,11 @@
 ---
 title: "Linux Operator Webhosting (m/w)"
 permalink: /infrastructure/linux-professional/
+author: funke
 ---
-## Linux Operator Webhosting (m/w)
 
-{% include offers_benefits.md %}
-{% include offers_footer.md %}
+Als Linux-Operator wirst du dich bei uns um die Betreuung der Shop-Infrastruktur und die Entwicklungsumgebungen kümmern.
+
+{% include offers/funke/benefits.md %}
+{% include offers/about.md %}
+{% include offers/funke/footer.md %}

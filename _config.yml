@@ -17,12 +17,9 @@ search_full_content: true
 
 # Site author
 author:
-  name: "Niklas Funke"
   location: "Dortmund, NRW"
-  email: "funke@babymarkt.de"
-  avatar: "https://www.xing.com/img/users/3/3/9/889c08534.7114152,11.256x256.jpg"
+  email: "info@babymarkt.de"
   uri: "https://www.babymarkt.de"
-  xing: "Niklas_Funke2"
   github: "baby-markt"
 
 # Reading files

@@ -7,8 +7,8 @@ title: "babymarkt.de tech jobs"
 title_separator: "-"
 logo: "/assets/images/header_logo.png"
 name: "babymarkt.de GmbH"
-url: https://baby-markt.github.io
-baseurl: "/jobs"
+url: https://jobs.babymarkt.de
+baseurl: ""
 repository: "Baby-Markt/jobs"
 offers_email: "bewerbung.shop@babymarkt.de"
 

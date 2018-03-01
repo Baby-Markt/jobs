@@ -3,7 +3,7 @@ title: "Senior PHP Developer (m/w)"
 permalink: /backend/php-senior/
 author: funke
 header:
-  overlay_image: /assets/images/splash_php.jpg
+  overlay_image: /assets/images/headers/phpdev.jpg
 ---
 
 Kurze Einleitung fehlt noch...

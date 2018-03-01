@@ -21,7 +21,7 @@ Kurze Einleitung fehlt noch...
 * Agile und testgetriebene Entwicklung nach Scrum mit PHP (5.4-7.x)
 * Konzipierung und Entwicklung neuer, servicebasierter Komponenten
 * Evaluierung und Einsatzbegleitung neuer Technologien
-* Der Einsatz von professionellen Entwickler-Tools wie PhpStorm, Bamboo, Jira, Git oder Docker sind für Dich kein Fremdwort 
+* Der Einsatz von professionellen Entwickler-Tools wie PhpStorm, Bamboo, Jira, Git oder Docker sind für dich kein Fremdwort
 
 {% include offers/funke/benefits.md %}
 {% include offers/about.md %}

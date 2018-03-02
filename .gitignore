@@ -4,5 +4,7 @@ _site
 # bundle vendor packages
 dev/bundle/*
 
+assets/images/headers/originals
+
 # Keep all git files
 !**/.git*

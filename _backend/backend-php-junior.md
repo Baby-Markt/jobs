@@ -3,7 +3,7 @@ title: "Junior PHP Developer (m/w)"
 permalink: /backend/php-junior/
 author: funke
 header:
-  overlay_image: /assets/images/headers/phpdev.jpg
+  overlay_image: /assets/images/headers/phpdev.png
 ---
 
 Kurze Einleitung fehlt noch...

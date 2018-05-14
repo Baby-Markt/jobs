@@ -6,7 +6,10 @@ header:
   overlay_image: /assets/images/headers/phpdev.png
 ---
 
-Kurze Einleitung fehlt noch...
+Als Junior PHP Developer wirst du dich bei uns um die Weiterentwicklung unserer modernen E-Commerce-Plattform kümmern 
+und neue Anforderungen in einer Microservice-Architektur konzipieren und umsetzen. Dabei kannst du auf die 
+Hilfsbereitschaft und die umfangreichen Erfahrungen des ganzen Teams zurückgreifen, so dass auch du schnell mit uns 
+wachsen kannst.
 
 ## Danach suchen wir
 

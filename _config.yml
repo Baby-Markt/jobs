@@ -12,8 +12,8 @@ baseurl: ""
 repository: "Baby-Markt/jobs"
 offers_email: "bewerbung.shop@babymarkt.de"
 
-search: true
-search_full_content: true
+search: false
+search_full_content: false
 
 # Site author
 author:

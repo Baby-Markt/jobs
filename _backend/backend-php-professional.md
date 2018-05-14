@@ -6,7 +6,9 @@ header:
   overlay_image: /assets/images/headers/phpdev.jpg
 ---
 
-Kurze Einleitung fehlt noch...
+Als Senior PHP Developer wirst du dich bei uns um die Weiterentwicklung unserer modernen E-Commerce-Plattform 
+kümmern und neue Anforderungen in einer Microservice-Architektur konzipieren und umsetzen. Dabei kannst du auf 
+die Unterstützung des ganzen Teams zurückgreifen und mit uns zusammen Großes erreichen.
 
 ## Danach suchen wir
 

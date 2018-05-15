@@ -1,6 +1,7 @@
 ---
 title: "Frontend Jobs"
 permalink: /frontend/
+author: funke
 ---
 
 {% for item in site.frontend %}

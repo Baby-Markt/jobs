@@ -2,6 +2,7 @@
 title: "Backend Jobs"
 permalink: /backend/
 author: funke
+author_profile: true
 ---
 
 {% for item in site.backend %}

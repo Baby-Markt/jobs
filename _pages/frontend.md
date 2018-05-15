@@ -2,6 +2,7 @@
 title: "Frontend Jobs"
 permalink: /frontend/
 author: funke
+author_profile: true
 layout: archive
 ---
 

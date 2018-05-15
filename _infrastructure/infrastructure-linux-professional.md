@@ -3,7 +3,7 @@ title: "Linux Operator Web (m/w)"
 permalink: /infrastructure/linux-professional/
 author: funke
 header:
-  overlay_image: /assets/images/header_container.png
+  overlay_image: /assets/images/container.png
 ---
 
 Als Linux-Administrator wirst du dich bei uns um die Betreuung der Shop-Infrastruktur und die 
@@ -11,12 +11,12 @@ Entwicklungsumgebungen kümmern.
 
 ## Danach suchen wir
 
-* Du bringt sehr gute Erfahrungen im Umgang mit Linux Systemen (vorzugsweise Ubuntu/Debian) mit
+* Du bringst sehr gute Erfahrungen im Umgang mit Linux Systemen (vorzugsweise Ubuntu/Debian) mit
 * Cloud-Computing ist für dich kein Fremdwort
 * Du kannst mit Docker umgehen und weißt, wie man Container richtig stapelt
 * Webserver und Webhosting ist genau dein Ding
 * Automatisierung, Monitoring und Logging sind dein tägliches Handwerkszeug
-* Server sind für dich keine Haustieren
+* Server sind für dich keine Haustiere
 
 ## Das erwartet dich
 

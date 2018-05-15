@@ -22,3 +22,11 @@ vogel:
   email: "vogel@babymarkt.de"
   avatar: "/assets/images/authors/andreas-vogel.jpg"
   xing: "Andreas_Vogel85"
+
+grauel:
+  name: "Silvia Grauel"
+  bio: "Hast du Fragen zur Bewerbung? Schreib mir."
+  location: "Dortmund, NRW"
+  email: "grauel@babymarkt.de"
+  avatar: "/assets/images/authors/silvia-grauel.jpg"
+  xing: "Silvia_Grauel"

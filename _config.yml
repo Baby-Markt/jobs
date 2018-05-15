@@ -22,6 +22,9 @@ author:
   uri: "https://www.babymarkt.de"
   github: "baby-markt"
 
+facebook:
+  username: "babymarkt.de"
+
 # Reading files
 include:
 - _pages

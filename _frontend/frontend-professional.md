@@ -1,13 +1,13 @@
 ---
-title: "Frontend Developer (m/w)"
+title: "Frontend Developer (m/w/d)"
 permalink: /frontend/professional/
 author: funke
 header:
   overlay_image: /assets/images/headers/donuts.png
 ---
 
-Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im europäischen Raum vorantreiben. 
-Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Standards für eine Vielzahl an Devices zu setzen. 
+Als Frontend-Ninja bei babymarkt wirst du den Schwarzmarkt für Babyartikel im europäischen Raum vorantreiben.
+Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Standards für eine Vielzahl an Devices zu setzen.
 
 ## Danach suchen wir
 

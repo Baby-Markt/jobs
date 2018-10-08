@@ -1,5 +1,5 @@
 ---
-title: "Auszubildender Fachinformatik für Systemintegration (m/w)"
+title: "Auszubildender Fachinformatik für Systemintegration (m/w/d)"
 permalink: /infrastructure/azubi-fachinformatik-systemintegration
 author: vogel
 header:
@@ -17,7 +17,7 @@ entsprechend zu betreuen und bist für die Installation der Hard- und Software z
 wirst in Planungsaufgaben integriert, konfigurierst und verwaltest die Systeme im Haus und
 beseitigst bei auftretenden Störungen die Fehler. Du lernst interne Kunden bei der Auswahl
 und dem Einsatz der Geräte sowie bei Problemen in der Anwendung zu beraten. Dabei wirst
-du jederzeit von deinem Ausbilder unterstützt. 
+du jederzeit von deinem Ausbilder unterstützt.
 
 ## Das erwarten wir von dir beim Einstieg
 
@@ -30,7 +30,7 @@ du jederzeit von deinem Ausbilder unterstützt.
 * Gute PC-Grundkenntnisse, Interesse an Hard- und Software, „Spaß am Tüfteln“
 * Sehr gutes Deutsch in Wort und Schrift
 * Gute Englischkenntnisse wünschenswert
-* Lernbereitschaft, Fähigkeit zum zielorientierten und systematischen Arbeiten, Verantwortungsbewusstsein 
+* Lernbereitschaft, Fähigkeit zum zielorientierten und systematischen Arbeiten, Verantwortungsbewusstsein
 
 {% include offers/vogel/benefits.md %}
 

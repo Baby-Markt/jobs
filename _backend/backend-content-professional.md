@@ -1,5 +1,5 @@
 ---
-title: "CMS/Wordpress Developer (m/w)"
+title: "CMS/Wordpress Developer (m/w/d)"
 permalink: /backend/content-professional/
 author: funke
 header:

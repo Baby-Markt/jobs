@@ -1,13 +1,13 @@
 ---
-title: "Senior PHP Developer (m/w)"
+title: "Senior PHP Developer (m/w/d)"
 permalink: /backend/php-senior/
 author: funke
 header:
   overlay_image: /assets/images/headers/phpdev.jpg
 ---
 
-Als Senior PHP Developer wirst du dich bei uns um die Weiterentwicklung unserer modernen E-Commerce-Plattform 
-kümmern und neue Anforderungen in einer Microservice-Architektur konzipieren und umsetzen. Dabei kannst du auf 
+Als Senior PHP Developer wirst du dich bei uns um die Weiterentwicklung unserer modernen E-Commerce-Plattform
+kümmern und neue Anforderungen in einer Microservice-Architektur konzipieren und umsetzen. Dabei kannst du auf
 die Unterstützung des ganzen Teams zurückgreifen und mit uns zusammen Großes erreichen.
 
 ## Danach suchen wir

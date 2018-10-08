@@ -1,12 +1,12 @@
 ---
-title: "Linux Operator Web (m/w)"
+title: "Linux Operator Web (m/w/d)"
 permalink: /infrastructure/linux-professional/
 author: funke
 header:
   overlay_image: /assets/images/container.png
 ---
 
-Als Linux-Administrator wirst du dich bei uns um die Betreuung der Shop-Infrastruktur und die 
+Als Linux-Administrator wirst du dich bei uns um die Betreuung der Shop-Infrastruktur und die
 Entwicklungsumgebungen kümmern.
 
 ## Danach suchen wir
@@ -22,7 +22,7 @@ Entwicklungsumgebungen kümmern.
 
 * Agile Entwicklung der Infrastruktur auf Basis von z.B. AWS/OpenStack/Kubernetes
 * Du planst und konzipierst neue Komponenten in unserem Stack
-* Du evaluierst neue Technologien auf deren möglichen Nutzen für uns 
+* Du evaluierst neue Technologien auf deren möglichen Nutzen für uns
 * Du bist unser Sprachrohr gegenüber Hosting Dienstleistern
 * Du betreust unsere Entwickler bei ihrer täglichen Arbeit mit den Entwicklungsumgebungen (und sie werden deine größten Fans)
 

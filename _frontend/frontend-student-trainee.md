@@ -1,12 +1,12 @@
 ---
-title: "Werkstudent Frontend (m/w)"
+title: "Werkstudent Frontend (m/w/d)"
 permalink: /frontend/student-trainee/
 author: funke
 header:
   overlay_image: /assets/images/headers/frontend.png
 ---
 
-Als Frontend-Student bei babymarkt wirst du mit uns den Markt für Babyartikel im europäischen Raum vorantreiben. 
+Als Frontend-Student bei babymarkt wirst du mit uns den Markt für Babyartikel im europäischen Raum vorantreiben.
 Du wirst jederzeit unseren aktuellen Stand hinterfragen und uns helfen, neue Standards für eine Vielzahl an Devices zu setzen.
 
 ## Danach suchen wir

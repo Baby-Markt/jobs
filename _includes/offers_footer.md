@@ -6,7 +6,7 @@ Wenn es um Baby- und Kinderausstattung geht, haben wir als führender Online-Fac
 
 Hast Du Fragen zum Bewerbungsprozess oder zur ausgeschriebenen Stelle, schreib [uns](mailto:funke@babymarkt.de).
 
-Deine CV kannst du uns entweder direkt per E-Mail an [bewerbung.shop@babymarkt.de](mailto:{{ site.offers_email }}) 
+Deine CV kannst du uns entweder direkt per E-Mail an [bewerbung.shopentwicklung@babymarkt.de](mailto:{{ site.offers_email }}) 
 oder klassisch per Post senden. Die Anschrift lautet: 
 
 babymarkt.de Gmbh<br>

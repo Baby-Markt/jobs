@@ -3,7 +3,7 @@ title: "Linux Operator Web (m/w/d)"
 permalink: /infrastructure/linux-professional/
 author: funke
 header:
-  overlay_image: /assets/images/container.png
+  overlay_image: /assets/images/headers/container.png
 ---
 
 Als Linux-Administrator wirst du dich bei uns um die Betreuung der Shop-Infrastruktur und die

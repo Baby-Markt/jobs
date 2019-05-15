@@ -2,6 +2,7 @@
 
 funke:
   name: "Niklas Funke"
+  bio: "Leiter der Shop-Entwicklung und Technik-Enthusiast"
   location: "Dortmund, NRW"
   email: "funke@babymarkt.de"
   avatar: "/assets/images/authors/niklas-funke.jpg"
@@ -23,10 +24,9 @@ vogel:
   avatar: "/assets/images/authors/andreas-vogel.jpg"
   xing: "Andreas_Vogel85"
 
-grauel:
-  name: "Silvia Grauel"
+joo:
+  name: "Gabrielle Joo"
   bio: "Hast du Fragen zur Bewerbung? Schreib mir."
   location: "Dortmund, NRW"
-  email: "grauel@babymarkt.de"
-  avatar: "/assets/images/authors/silvia-grauel.jpg"
-  xing: "Silvia_Grauel"
+  email: "joo@babymarkt.de"
+  avatar: "/assets/images/authors/gabrielle-joo.jpg"
